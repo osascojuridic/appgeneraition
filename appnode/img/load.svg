@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="75" height="75" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 175 175"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+ <defs>
+
+  <linearGradient id="gradiente">
+    <stop  stop-color="#F9D800"/>
+    <stop offset="60%" stop-color="#1898D4"/>
+  </linearGradient>
+
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:url(#gradiente);stroke-width:10;stroke-linecap:round}
+    .str0 {stroke-width:10;stroke-linecap:round}
+    .fil1 {fill:none}
+    .fil0 {fill:url(#gradiente)}
+    .fil2 {fill:#FFF;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <g id="_2675043953392">
+   <circle class="fil0" cx="87" cy="87" r="70"/>
+   <circle class="fil1 str0" cx="87" cy="87" r="78"/>
+    <circle class="fil1 str1" cx="87" cy="87" r="78">
+      <animate attributeName="stroke-dashoffset" dur="2.5s" repeatCount="indefinite" from="0" to="500"></animate>
+      <animate attributeName="stroke-dasharray" dur="2.5s" repeatCount="indefinite" values="224 24;1 248;224 24;"></animate>
+    </circle>
+   </g>
+   <g id="_2675043966128">
+    <path class="fil2" d="M70 62l8 0 0 -7 0 0c0,0 0,-3 1,-5 2,-1 4,-2 6,-2 3,0 5,1 6,2 2,2 2,4 2,4l0 8 8 0 0 -7c0,-1 0,-6 -4,-10 -3,-3 -7,-5 -12,-5 -5,0 -8,2 -11,5 -4,4 -4,9 -4,10l0 7z"/>
+    <path class="fil2" d="M92 91l3 15 -15 0 2 -15 0 0c-1,-1 -2,-3 -2,-6 0,-4 3,-7 8,-7 4,0 7,3 7,7 0,3 -1,5 -3,6l0 0zm17 2c4,-3 7,-8 7,-13 0,-9 -7,-16 -16,-16 0,0 0,0 -1,0l-38 0c-2,0 -4,2 -4,4 0,2 2,4 4,4l5 0 0 42 -5 0c-2,0 -4,2 -4,4 0,3 2,4 4,4l9 0 0 8c0,2 2,4 4,4 2,0 4,-2 4,-4l0 -8 15 0 0 8c0,2 2,4 4,4 2,0 4,-2 4,-4l0 -8c9,0 16,-7 16,-16 0,-5 -3,-11 -8,-13z"/>
+   </g>
+  </g>
+	
+	
+</svg>
